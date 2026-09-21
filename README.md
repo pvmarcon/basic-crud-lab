@@ -48,7 +48,3 @@ http://localhost:8000/users
 - cadastro de usuários
 - relacionamento com endereço
 - dados iniciais via seed
-
-## Licença
-
-MIT
